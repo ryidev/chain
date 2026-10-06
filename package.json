@@ -1,0 +1,16 @@
+{
+  "name": "your-project-name",
+  "version": "0.1.0",
+  "scripts": {
+    "node": "npx hardhat node",
+    "fast-deploy": "npx hardhat run scripts/deploy.ts --network localhost",
+    "dev": "next dev"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.10",
+    "@types/node": "^22.19.17",
+    "ethers": "^6.16.0",
+    "typescript": "~5.8.0"
+  }
+}
