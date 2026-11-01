@@ -1,7 +1,7 @@
-# Sample Hardhat 3 Beta Project (minimal)
+# VoteDecen - Core Smart Contracts & Tests
 
-This project has a minimal setup of Hardhat 3 Beta, without any plugins.
+This repository contains the core Solidity smart contracts, Hardhat test suites, and cryptographic verification scripts for the VoteDecen framework.
 
-## What's included?
-
-The project includes native support for TypeScript, Hardhat scripts, tasks, and support for Solidity compilation and tests.
+### Related System Repositories:
+- **Web Client & Gasless Relayer API**: [github.com/ryidev/fe](https://github.com/ryidev/fe)
+- **Mobile Voter App (React Native)**: [github.com/ryidev/mobile](https://github.com/ryidev/mobile)
